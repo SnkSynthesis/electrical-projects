@@ -59,7 +59,6 @@ void updateLCD() {
       lcd.print(" ");
     }
   }
-
 }
 
 float getThreshold(int i) {
@@ -106,7 +105,6 @@ void evaluate_password() {
       equivalent = false;
     }
   }
-
   
   lcd.setCursor(0, 2);
   if (!equivalent) {
@@ -142,8 +140,6 @@ void loop() {
   } else {
     evaluate_password();
   }
-  
-  
 
   if (digitalRead(SUBMIT_BTN_PIN) == HIGH) {
     if (!evaluate) {
