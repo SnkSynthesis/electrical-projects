@@ -1,6 +1,6 @@
 # Potentiometer Password Verifier
 
-This is a circuit that uses a potentiometer as a form of input, in order to modify a 9 digit array of numbers.
+This is a circuit that uses a potentiometer as a form of input, in order to modify a 9 digit array of numbers. It uses an Arduino for logic.
 The 9 digit array of numbers can be submitted to see if it is equal to the true password. The "password" is hardcoded in the source code so that it is easy to change (`int correctDigits[9] = ...`). 
 This should not be used for an actual password verifier though since it has no hashing or encryption. It was made as a proof-of-concept for using a potentiometer as a form of input. See [Gallery](#gallery) to view photos of this project.
 
