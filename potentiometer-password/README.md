@@ -4,7 +4,7 @@ This is a circuit that uses a potentiometer as a form of input, in order to modi
 The 9 digit array of numbers can be submitted to see if it is equal to the true password. The "password" is hardcoded in the source code so that it is easy to change (`int correctDigits[9] = ...`). 
 This should not be used for an actual password verifier though since it has no hashing or encryption. It was made as a proof-of-concept for using a potentiometer as a form of input. See [Gallery](#gallery) to view photos of this project.
 
-<img src="gallery/circuit_diagram.png" alt="gallery/circuit_digits.jpg" width="50%" height="50%">
+<img src="gallery/circuit_diagram.png" alt="gallery/circuit_diagram.png" width="50%" height="50%">
 
 ## Usage: 
 1. Use the potentiometer dial to move thru the digits (left or right) during selection mode (solid yellow LED)
