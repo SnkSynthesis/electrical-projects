@@ -27,5 +27,5 @@ This should not be used for an actual password verifier though since it has no h
 
 ## Gallery 
 <img src="gallery/circuit_digits.jpg" alt="gallery/circuit_digits.jpg" width="50%" height="50%">
-<img src="gallery/circuit_digits.jpg" alt="gallery/circuit_access_denied.jpg" width="50%" height="50%">
-<img src="gallery/circuit_digits.jpg" alt="gallery/circuit_access_granted.jpg" width="50%" height="50%">
+<img src="gallery/circuit_access_denied.jpg" alt="gallery/circuit_access_denied.jpg" width="50%" height="50%">
+<img src="gallery/circuit_access_granted.jpg" alt="gallery/circuit_access_granted.jpg" width="50%" height="50%">
